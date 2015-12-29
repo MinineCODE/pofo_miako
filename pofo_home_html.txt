@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="uft-8">
+<link rel="stylesheet" type="text/css" href="pofo_home.css">
+<title>都マルチ</title>
+</head>
+
+<body>
+
+<div class="header">
+<div class="header_l">
+	<div class="title">
+		<p>京大ポータルサイト「都マルチ」</p>
+	</div>
+	<div class="logo">
+		<img src="koujityuu.png">
+		<img src="koujityuu.png">
+	</div>
+</div>
+	<div class="tsubuyaki">
+	<img src="tsubuyaki.png" class="hukidashi">
+	<img src="fo-kunn.png" class="kyara">
+	</div>
+</div>
+
+<div class="mainmenu">
+	<a><img src="po.jpg"></a>
+	<a><img src="po.jpg"></a>
+	<a><img src="po.jpg"></a>
+	<a><img src="po.jpg"></a>
+</div>
+
+<div class="body">
+
+<div class="sidemenu">
+	<div class="sidemenu_title">
+	<span>勉強系</span>
+	</div>
+	<ul>
+	<li>レポート</li>
+	<li>辞書</li>
+	<li>パワポ</li>
+	<li>画像検索</li>
+	<li>勉強法</li>
+	<li>その他</li>
+	</ul>
+</div>
+
+<div class="main">
+	<p class="main_title">レポート<img src="report.png"></p>
+	<img src="presentation 02a.png">
+	<img src="presentation 03a.png">
+	<img src="presentation 05a.png">
+ </div>
+
+<div class="circle">
+	<span class="circle_title">サークル情報</span>
+	<p>TPEC</p>
+	<p>アニ同</p>
+	<p>京大TIMES</p>	
+</div>
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+# Database Connection Data
+ DBManager.php
+
+# Google
+# Lib.php
+
+# LockedFiles
+ locked/
+
+# Old
+# about.html
+
+*.pdf
+
+# ignore images
+*.png
+*.jpg
+*.jpeg
